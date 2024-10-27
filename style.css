@@ -11,6 +11,7 @@ body {
   align-items: center;
   display: flex;
   height: 100vh;
+  background-color: #141414;
 }
 .container {
   max-width: 384px;
