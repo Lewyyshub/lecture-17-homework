@@ -51,7 +51,7 @@ body {
 .btns {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 20px;
 }
 .position {
   align-self: stretch;
