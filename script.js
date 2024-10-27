@@ -42,3 +42,10 @@ function Gaormageba() {
 Gaormageba()(2);
 // ანონიმური ფუნქცია //
 
+function Ormagi(a,callback) {
+  return callback (a);
+}
+function X(a) {
+  return a * 2;
+}
+console.log(Ormagi(2,X));
